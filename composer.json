@@ -1,13 +1,17 @@
 {
-    "name": "ddctd143/google-translate",
-    "description": "Free Laravel package for Paid Google Translate REST API",
+    "name": "hanekedesign/google-translate",
+    "description": "Free Laravel package for Paid Google Translate REST API (Fork of ddctd143/google-translate)",
     "keywords": ["laravel", "google", "translate", "php"],
     "license": "MIT",
-    "homepage": "http://github.com/ddctd143/google-translate",
+    "homepage": "http://github.com/hanekedesign/google-translate",
     "authors": [
       {
         "name": "Arturs Terehovics",
         "email": "ddctd143@gmail.com"
+      },
+      {
+        "name": "Jesse Curry",
+        "email": "jesse@jessecurry.net"
       }
     ],
     "require": {
