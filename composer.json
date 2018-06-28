@@ -1,5 +1,5 @@
 {
-    "name": "hanekedesign/google-translate",
+    "name": "ddctd143/google-translate",
     "description": "Free Laravel package for Paid Google Translate REST API (Fork of ddctd143/google-translate)",
     "keywords": ["laravel", "google", "translate", "php"],
     "license": "MIT",
